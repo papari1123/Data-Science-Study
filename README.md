@@ -1,5 +1,7 @@
 # Data-Science-Study
 
-## Data science library에 대한 스터디
-1. Pandas
-2. Numpy
+## Data science library
+1. Pandas</br>
+official website : https://pandas.pydata.org/docs/reference/io.html </br>
+</br>
+3. Numpy </br>
